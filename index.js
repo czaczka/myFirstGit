@@ -1,4 +1,4 @@
-console.log("Hello world!");
+console.log("Hello world");
 
 function adding(x,y) {
     console.log(x + y);
